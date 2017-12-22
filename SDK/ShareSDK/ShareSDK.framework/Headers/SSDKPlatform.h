@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "SSDKTypeDefine.h"
+#import <UIKit/UIKit.h>
 
 /**
  *  分享平台信息
